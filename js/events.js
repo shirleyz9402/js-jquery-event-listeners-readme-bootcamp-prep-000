@@ -5,7 +5,7 @@ $('p').on('click',function(){
   })
 }
 function frameIt(){
-  $('')
+  $('img').on('load')
 }
 $(document).ready(function(){
 getIt()
